@@ -1,1 +1,15 @@
-# CODETECH-WEEK-3
+#IMAGE RECOGNITION USING CNN
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : Janthuka Naveen
+
+*INTERN ID* : CT04DA538
+
+*DOMAIN* : MACHINE LEARNING
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH
+
+*OUTPUT* :![Image](https://github.com/user-attachments/assets/fc5fe2e6-7697-4b95-932a-2a8d8ef4ed57)
